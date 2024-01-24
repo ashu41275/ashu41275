@@ -1,3 +1,4 @@
+![logo](https://github.com/ashu41275/ashu41275/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Kumar Ashwin</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
